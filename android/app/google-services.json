@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384648376089",
+    "project_id": "usaprimebaseball-ba277",
+    "storage_bucket": "usaprimebaseball-ba277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384648376089:android:2eaf8c2285664386005f88",
+        "android_client_info": {
+          "package_name": "com.usaprimebaseball"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Agk9_8Cg8IaLegCBj_VBhhwr62I-dso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
